@@ -7,7 +7,7 @@ Special thanks to [Material Icons](https://materialicons.github.io) for the code
 
 ### Usage
 ```
-<i class="gmi gmi-3d-rotation></i>
+<i class="gmi gmi-3d-rotation"></i>
 ```
 
 ### Bower
